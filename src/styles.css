@@ -1,0 +1,106 @@
+body{
+    font-family: : Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #7c7c7c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin:0;
+    /*border: 1px solid;*/
+}
+
+ul{
+    margin: 0 0 10px;
+    padding: 0;
+    
+}
+
+li{
+    color: #7c7c7c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    height: 20px;
+    line-height: 1.5;
+    list-style: none;
+    
+}
+
+.weather-app {
+    border: 1px solid #dadde1;
+    padding: 50px;
+    margin: 30px auto;
+    max-width: 650px;
+    border-radius: 20px;
+}
+
+#temperature{
+    color: rgb(33,33,33);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 1.4; 
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.weather-icon{
+    width: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.units{
+    position: relative;
+    top: -35px;
+    font-size: 20px;
+}
+
+.btn-group{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.weather-details{
+    text-align: left;
+    margin-left: 10px ;
+}
+
+.main-details{
+    margin: 10px 0 5px 0;
+    color:black;
+    /*border: 1px solid;*/
+}
+
+.search-a-city{
+    /*border: 1px solid;*/
+    margin: 0;
+    text-align: right;
+
+
+}
+
+.all-details{
+    margin: 5px auto 5px auto;
+}
+
+
+.form-group{
+    margin:0;
+    padding: 0;
+}
+
+
+#currentDate{
+    font-size: 18px;
+    margin: 1px;
+    font-weight: 500;
+    color: black;
+}
